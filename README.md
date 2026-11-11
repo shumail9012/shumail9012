@@ -16,7 +16,7 @@ and robotics, deep learning, PLC programming and multi-agent systems.
 | [dil700-deep-learning-labs](https://github.com/shumail9012/dil700-deep-learning-labs) | Deep learning in TensorFlow/Keras, from MLPs to ResNet, transfer learning, LSTMs and adversarial examples. |
 
 More: [PLC labs in TwinCAT 3](https://github.com/shumail9012/std200-industrial-automation-labs) ·
-[gantry crane control over Modbus TCP](https://github.com/shumail9012/Programming-for-automation) ·
+[gantry crane control over Modbus TCP](https://github.com/shumail9012/gantry-crane-modbus-control) ·
 [mechatronics in Simulink](https://github.com/shumail9012/mfa600-mechatronics-labs) ·
 [RTD data acquisition in Simscape](https://github.com/shumail9012/rtd-temperature-daq-simulink)
 
